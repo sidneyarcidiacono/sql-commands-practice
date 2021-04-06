@@ -28,6 +28,10 @@ VALUES
     ('California', 'Blink-182', 2016)
 ;
 
+/* Required to get result in column format */
+.headers on
+.mode column
+
 
 /* Queries */
 
